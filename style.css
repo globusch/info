@@ -12,6 +12,12 @@ body {
       background-attachment: fixed;
 }
 
+.globusch_header {
+      color: white;
+      position: center;
+      }
+
+
 .container {
       padding: 60px;
 }
