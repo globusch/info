@@ -6,7 +6,9 @@ html, body {
 
 
 body {
-      background-color: gray;
+      background-image: url("background_main.png");
+      background-size: cover;
+      background-position: center;
 }
       
     
